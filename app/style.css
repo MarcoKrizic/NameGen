@@ -1,0 +1,43 @@
+body {
+    background: radial-gradient(orange, yellow, white);
+    padding-bottom: 800px;
+}
+
+#header {
+    font-family: 'Comic Sans MS';
+    font-size: 48px;
+    font-style: bold;
+    text-align: center;
+    padding-top: 30px;
+}
+
+#content {
+    font-family: 'Comic Sans MS';
+    font-size: 36px;
+    font-style: bold;
+    text-align: center;
+    padding-top: 40px;
+}
+
+#firstName {
+    margin-right: 20px;
+}
+
+#lastName {
+    margin-right: 20px;
+}
+
+#newName {
+    font-size: 30px;
+    font-style: bold;
+    font-family: "Helvetica";
+}
+
+#newGuide {
+    text-align: center;
+    font-size: 20px;
+}
+
+#footer {
+    text-align: center;
+}
